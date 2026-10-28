@@ -6,7 +6,9 @@ An unofficial iLoader modification for installing compatible iOS applications th
   <a href="https://paypal.me/PRADYUMNAKAPURE">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
-  <img src="https://img.shields.io/badge/Donate-UPI%20India-5F259F?style=for-the-badge" alt="Donate using UPI in India" />
+  <a href="upi://pay?pa=pradumna.kapure%40ptyes&amp;pn=Pradyumna%20Kapure&amp;cu=INR&amp;tn=Support%20iLoader%20Memory%2B">
+    <img src="https://img.shields.io/badge/Donate-UPI%20India-5F259F?style=for-the-badge" alt="Donate using UPI" />
+  </a>
 </p>
 
 <p align="center">
@@ -15,13 +17,7 @@ An unofficial iLoader modification for installing compatible iOS applications th
   </a>
 </p>
 
-<p align="center">
-  <strong>UPI ID:</strong> <code>pradumna.kapure@ptyes</code>
-</p>
-
-Quick links: Telegram Support · Download Latest Release · Donate via PayPal
-
-Donate using UPI: Copy pradumna.kapure@ptyes into your preferred UPI app, verify the recipient details, and enter your contribution amount.
+Quick links: Telegram Support · Download Latest Release · Donate via PayPal · Donate via UPI
 
 If you find this project useful, please consider supporting independent development. Contributions help with installation improvements, testing, compatibility work, and future updates. Every contribution is appreciated!
 
