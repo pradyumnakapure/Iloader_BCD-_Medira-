@@ -6,7 +6,7 @@
   <a href="https://paypal.me/PRADYUMNAKAPURE">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
-  <a href="upi://pay?pa=pradumna.kapure%40ptyes&pn=Pradyumna%20Kapure&cu=INR&tn=Support%20iLoader%20Memory%2B">
+  <a UPI ID : pradyumna.kapure@ptyes>
     <img src="https://img.shields.io/badge/Donate-UPI%20India-5F259F?style=for-the-badge" alt="Donate using UPI" />
   </a>
 </p>
