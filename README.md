@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
   <a UPI ID : pradyumna.kapure@ptyes>
-    <img src="https://img.shields.io/badge/Donate-UPI%20India-5F259F?style=for-the-badge" alt="Donate using UPI ID : pradyumna.kapure@ptyes" />
+    <img src="https://img.shields.io/badge/Donate-UPI%20India : pradyumna.kapure@ptyes -5F259F?style=for-the-badge" alt="Donate using UPI ID : pradyumna.kapure@ptyes" />
   </a>
 </p>
 
