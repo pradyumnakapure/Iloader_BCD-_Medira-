@@ -17,7 +17,7 @@
   </a>
 </p>
 
-**Quick links:** [Telegram Support](https://t.me/iloadersupport) · [Download Latest Release](../../releases/latest) · [Donate via PayPal](https://paypal.me/PRADYUMNAKAPURE) · [Donate via UPI] - [pradyumna.kapure@pytes]
+**Quick links:** [Telegram Support](https://t.me/iloadersupport) · [Download Latest Release](../../releases/latest) · [Donate via PayPal](https://paypal.me/PRADYUMNAKAPURE) · [Donate via UPI - pradyumna.kapure@pytes]
 
 If you find this project useful, please consider supporting independent development. Contributions help with installation improvements, testing, compatibility work, and future updates. Every contribution is appreciated!
 
