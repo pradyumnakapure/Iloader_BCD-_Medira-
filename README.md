@@ -1,14 +1,12 @@
 # iLoader Memory+ — Unofficial BCD & iOS IPA Installer
 
-**An unofficial iLoader modification for installing compatible iOS applications through USB, with Increased Memory Limit requested during signing and a dedicated one-click BCD installer.**
+An unofficial iLoader modification for installing compatible iOS applications through USB, with Increased Memory Limit requested during signing and a dedicated one-click BCD installer.
 
 <p align="center">
   <a href="https://paypal.me/PRADYUMNAKAPURE">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
-  <a href="upi://pay?pa=pradumna.kapure%40ptyes&pn=Pradyumna%20Kapure&cu=INR&tn=Support%20iLoader%20Memory%2B">
-    <img src="https://img.shields.io/badge/Donate-UPI%20India-5F259F?style=for-the-badge" alt="Donate using UPI" />
-  </a>
+  <img src="https://img.shields.io/badge/Donate-UPI%20India-5F259F?style=for-the-badge" alt="Donate using UPI in India" />
 </p>
 
 <p align="center">
@@ -17,11 +15,15 @@
   </a>
 </p>
 
-**Quick links:** [Telegram Support](https://t.me/iloadersupport) · [Download Latest Release](../../releases/latest) · [Donate via PayPal](https://paypal.me/PRADYUMNAKAPURE) · [Donate via UPI](upi://pay?pa=pradumna.kapure%40ptyes&pn=Pradyumna%20Kapure&cu=INR&tn=Support%20iLoader%20Memory%2B)
+<p align="center">
+  <strong>UPI ID:</strong> <code>pradumna.kapure@ptyes</code>
+</p>
+
+Quick links: Telegram Support · Download Latest Release · Donate via PayPal
+
+Donate using UPI: Copy pradumna.kapure@ptyes into your preferred UPI app, verify the recipient details, and enter your contribution amount.
 
 If you find this project useful, please consider supporting independent development. Contributions help with installation improvements, testing, compatibility work, and future updates. Every contribution is appreciated!
-
----
 
 ## Project Status
 
